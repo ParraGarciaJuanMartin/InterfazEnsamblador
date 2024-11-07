@@ -1,7 +1,7 @@
 // ============================================
 // Programador: Parra García Juan Martín
 // Fecha: 07/Nov/2024
-// Programa: Resta de dos números
+// Programa: resta.s
 // Descripción: Resta dos números y muestra el resultado en consola
 // Versión: 1.0
 // ============================================
