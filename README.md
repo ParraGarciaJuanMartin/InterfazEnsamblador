@@ -15,6 +15,29 @@ Cada ejercicio está compuesto por:
 
 Este repositorio contiene los 50 ejercicios correspondientes al curso de ensamblador ARM64. Aunque todos los ejercicios están listados en el repositorio, algunos de ellos aún no han sido implementados completamente. Los ejercicios para los cuales aún no se ha implementado el código tienen archivos de **placeholder**. Estos archivos contienen solo el mensaje **"Last commit message: Add files via upload"** y aún no incluyen el código de los programas correspondientes.
 
+### Progreso de las Entregas
+
+#### Día 1: Fallos de compilación de ejercicios
+- Se realizaron intentos de compilación, pero hubo fallos que se resolvieron parcialmente.
+  - [Ver Asciinema Día 1](https://asciinema.org/a/A3OHssEo89S3QJdM1o9S7Dn7M)
+
+#### Día 2: Fallos en la grabación del Asciinema
+- No se pudo grabar el asciinema debido a problemas técnicos.
+  - No hay enlaces de grabación para este día.
+
+#### Día 3: Problemas con la ejecución y grabación de un programa
+- La grabación de uno de los programas falló, pero el resto de los ejercicios fueron entregados correctamente.
+- **ene.s** y **nLogN.s**
+  - [Ver Asciinema para ene.s y nLogN.s](https://asciinema.org/a/6Bdy06RxkEfMa1dj9w3TnP2tt)
+- **log2.s**
+  - [Ver Asciinema para log2.s](https://asciinema.org/a/yP7vhOhB8gxsZfQJ3GjjIZJUQ)
+- **mcm.s** y **mcd.s**
+  - [Ver Asciinema para mcm.s y mcd.s](https://asciinema.org/a/JBpW66kTQwKBdX9Dqu3kgcSNY)
+- **max.s** y **min.s**
+  - [Ver Asciinema para max.s y min.s](https://asciinema.org/a/WDCf8T67jwhaspVJLul0BDYVf)
+  
+Este repositorio está siendo actualizado continuamente y los ejercicios serán completados conforme se avance en el curso.
+
 **Nota sobre el segundo día de entrega**:
 - Durante la segunda entrega de archivos, no se implementaron algunos programas debido a un problema técnico con la grabación de los videos en **asciinema**. Este problema fue comunicado al profesor durante la clase.
 - Como resultado, en la tabla de los ejercicios, los programas que no fueron entregados en esta segunda ronda están marcados con el estado **"Entregada""** y **"Codificado"**, aunque los archivos de código aún no están completos.
