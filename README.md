@@ -35,6 +35,21 @@ Este repositorio contiene los 50 ejercicios correspondientes al curso de ensambl
   - [Ver Asciinema para mcm.s y mcd.s](https://asciinema.org/a/JBpW66kTQwKBdX9Dqu3kgcSNY)
 - **max.s** y **min.s**
   - [Ver Asciinema para max.s y min.s](https://asciinema.org/a/WDCf8T67jwhaspVJLul0BDYVf)
+
+#### Día 4: Entrega del 19 de noviembre
+- La compilacion del utlmo de los programas falló, pero el resto de los ejercicios fueron entregados correctamente.
+- **pow.s** y **sumStr.s**
+  - [Ver Asciinema para pow.s y sumStr.s](https://asciinema.org/a/oI9KYdUVorrb3tIHPhiX9o7SM)
+- **gnirts.s**, **rRot.s** y **sidekick.s**  
+  - [Ver Asciinema para gnirts.s , rRot.s y sidekick.s](https://asciinema.org/a/mdexPe4Set68AF0Veg9w5Ge7c)
+- **stack.s**, **queue.s**, **10to2.s** y **2to10.s**
+  - [Ver Asciinema para stack.s, queue.s, 10to2.s y 2to10.s](https://asciinema.org/a/hZE1SgdHdEyxfzwkUipa4bBq3)
+- **10to16.s**, **16to10.s**, **calc.s** y **seed.s**
+  - [Ver Asciinema para 10to16, 16to10, calc y seed](https://asciinema.org/a/b17AQZghkemW4uuqSPUKDRqzS)
+- **narci.s**, **lcp.s**, **overflow.s** y **profiling.s** 
+  - [Ver Asciinema para narci, lcp, overflow y profiling](https://asciinema.org/a/jsq68SW2aRVZoZm7rSQGYW3zH)
+- **readKey.s** y **writeFile.s** 
+  - [Ver Asciinema para readKey.s y writeFile.s](https://asciinema.org/a/ynGE0PUuQDwnibJqmM9nyFJXf)
   
 Este repositorio está siendo actualizado continuamente y los ejercicios serán completados conforme se avance en el curso.
 
